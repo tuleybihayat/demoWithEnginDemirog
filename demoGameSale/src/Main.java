@@ -39,7 +39,7 @@ public class Main {
 		
 		Game game2 = new Game();
 		game2.setId(2);
-		game2.setName("canavarcılık");
+		game2.setName("CANAVARCILIK");
 		game2.setPrice(1100);
 
 		
@@ -51,7 +51,7 @@ public class Main {
 
 		Campaign campaign1 = new Campaign();
 		campaign1.setId(1);
-		campaign1.setName("tam kapanma kampanyası");
+		campaign1.setName("tam kapanma kampanyası±");
 		campaign1.setDiscountRate(15);
 		
 		

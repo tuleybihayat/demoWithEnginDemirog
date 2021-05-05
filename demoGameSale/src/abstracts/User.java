@@ -1,6 +1,8 @@
 package abstracts;
 
-public abstract class User {
+import interfaces.Entity;
+
+public abstract class User implements Entity {
 
 	private int id;
 	private String email;
