@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/Abstract/BaseCustomerManager.java=UTF-8
+encoding//src/Concrete/NeroCustomerManager.java=UTF-8
+encoding//src/Concrete/StarbucksCustomerManager.java=UTF-8
+encoding//src/Entities/Customer.java=UTF-8
+encoding//src/interfaceAbstractDemo/Main.java=UTF-8
