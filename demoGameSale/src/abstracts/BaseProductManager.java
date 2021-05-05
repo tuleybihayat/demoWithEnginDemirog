@@ -1,20 +1,18 @@
 package abstracts;
 
-import entities.Game;
-
 public abstract class BaseProductManager {
 	
-	public void add(Game game) {
-		System.out.println("A new game is added: " + game.getName());
+	public void add(Product product) {
+		System.out.println("A new game is added: " + product.getName());
 		
 	}
 	
-	public void delete(Game game) {
-		System.out.println("The game is deleted: " + game.getName());
+	public void delete(Product product) {
+		System.out.println("The game is deleted: " + product.getName());
 	}
 	
-	public void update(Game game) {
-		System.out.println("The game is updated: " + game.getName());
+	public void update(Product product) {
+		System.out.println("The game is updated: " + product.getName());
 	}
 	
 }
