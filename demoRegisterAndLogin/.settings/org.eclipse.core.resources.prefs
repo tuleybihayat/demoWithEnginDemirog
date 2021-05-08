@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/demoRegisterAndLogin/Main.java=UTF-8
+encoding//src/demoRegisterAndLogin/business/concretes/PersonManager.java=UTF-8
+encoding//src/demoRegisterAndLogin/core/concretes/EmailValidationManager.java=UTF-8
+encoding//src/demoRegisterAndLogin/core/concretes/MailManager.java=UTF-8
+encoding//src/demoRegisterAndLogin/dataAccess/concretes/SamplePersonDao.java=UTF-8
+encoding//src/demoRegisterAndLogin/entities/abstracts/Person.java=UTF-8
