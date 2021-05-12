@@ -11,6 +11,8 @@ public class NeroCustomerManager extends BaseCustomerManager {
 		System.out.println(
 				"burada ilgili database kodu çağrıldı ve müşteri NERO İÇİN kaydedildi: " + customer.getFirstName());
 	}
+	
+	
 }
 
 
